@@ -1,12 +1,17 @@
 # Registering on the platform
 
-As for any web platform, users wishing to access the platform contents must register with their user name and password. This is simply done by following the _Sign up!_ link on the homepage, or by an administrator pre-registering all users. Once registered, one can simply connect using your username and password.
+As for any web platform, users wishing to access the platform contents must
+register with their username and password. This is simply done by following
+the _Sign up!_ link on the homepage, or by an administrator pre-registering
+all users. Once registered, one can simply connect using your username and
+password.
 
 ![](../.gitbook/assets/image2%20%282%29.png)
 
 _Illustration: "My courses" page_
 
-Once connected, the teacher has access to any courses on which \(s\)he is registered:
+Once connected, the teacher has access to any courses on which \(s\)he is
+registered:
 
 * A list of courses to which the user is subscribed. A pencil will appear on the right of the courses boxes for which the current user is a teacher, allowing the teacher to directly go to the courses settings
 * A link to the _Social Network_ tool \(which we will analyze in the Social network section\)

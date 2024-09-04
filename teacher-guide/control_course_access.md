@@ -1,8 +1,10 @@
 # Control course access
 
-During the creation of the course, it is recommended you don't allow learners access before it is ready so they don't see an incomplete course.
+During the creation of the course, it is recommended you don't allow learners
+access before it is ready so they don't see an incomplete course.
 
-In order to do this, access has to be restricted by going to the course _**Settings**_ tool:
+In order to do this, access has to be restricted by going to the course
+_**Settings**_ tool:
 
 ![](../.gitbook/assets/images17%20%283%29.png)
 
@@ -19,3 +21,6 @@ _Illustration: Course settings - Visibility_
 * **Private** : means the course is only available to students who have been subscribed to it by a teacher or administrator. Make sure the _Subscription_ option is set to be only available to trainers, though, as otherwise students might be able to subscribe themselves.
 * **Closed** : means the course is _only available to its teacher or the administrator_. Other users cannot access it, even if they have previously been subscribed to it. This last option is recommended _during the building or maintenance periods of the course_.
 
+> **Note:** Administrators also have the possibility to completely hide a
+> course, even to teachers, including the course creators/owners. This is
+> referred to as the _hidden_ visibility.

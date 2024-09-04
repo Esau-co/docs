@@ -1,12 +1,14 @@
 # The Chamilo homepage
 
-The homepage is the first visible page. It contains the login form and a few other important elements.
+The homepage is the first visible page. It contains the login form and a few
+other important elements.
 
 ![](../.gitbook/assets/images269.png)
 
 _Illustration: Homepage_
 
-Although your mileage may \(and certainly will\) vary, this is mostly what you should find on a Chamilo portal’s homepage:
+Although your mileage may \(and certainly will\) vary, this is mostly what you
+should find on a Chamilo portal’s homepage:
 
 * The logo of your organization will always appear on the top left corner of the page. This can later be changed \(check the admin guide for more info\).
 * The blue bar \(color may change depending on the stylesheet selected by your admin\) contains the first elements of menu. This will change when you login or when the administrator ads new items to it.
